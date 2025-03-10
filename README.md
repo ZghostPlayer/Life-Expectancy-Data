@@ -3,7 +3,7 @@
 ## 🌍 Acesse o Dashboard Interativo!
 🔗 O nosso dashboard interativo já está disponível online!  
 
-👉 [🌍 Expectativa de Vida Global - Dashboard Interativo](https://life-expectancy-data-jiymjdz9zspbkopoq9h4qn.streamlit.app/?embed=false)
+https://life-expectancy-data-jiymjdz9zspbkopoq9h4qn.streamlit.app/
 
 Este projeto explora um **conjunto de dados sobre expectativa de vida global**, realizando análises estatísticas e construindo um modelo de **Machine Learning** para prever a expectativa de vida de um país com base nos valores masculino e feminino.  
 
