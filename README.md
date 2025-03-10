@@ -1,11 +1,12 @@
 # 🌍 Expectativa de Vida Global - Análise e Predição com Machine Learning
 
 ## 🌍 Acesse o Dashboard Interativo!
-🔗 O nosso dashboard interativo já está disponível online!  
+
+🔗 O dashboard interativo já está disponível online!  
 
 https://life-expectancy-data-jiymjdz9zspbkopoq9h4qn.streamlit.app/
 
-📌 **Se o link não carregar corretamente ao clicar no GitHub, copie o link com Ctrl + C e cole no navegador com Ctrl + V**
+📌 **Se o link não carregar corretamente ao clicar no GitHub, copie o link com Ctrl + C e cole no navegador com Ctrl + V.**
 
 Este projeto explora um **conjunto de dados sobre expectativa de vida global**, realizando análises estatísticas e construindo um modelo de **Machine Learning** para prever a expectativa de vida de um país com base nos valores masculino e feminino.  
 
