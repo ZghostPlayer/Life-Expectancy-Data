@@ -1,5 +1,7 @@
 # 🌍 Expectativa de Vida Global - Análise e Predição com Machine Learning
 
+[Link do dashboard](https://life-expectancy-data-uchuqynuysbv5ly4noxaxf.streamlit.app/)
+
 Este projeto explora um **conjunto de dados sobre expectativa de vida global**, realizando análises estatísticas e construindo um modelo de **Machine Learning** para prever a expectativa de vida de um país com base nos valores masculino e feminino.  
 
 Além disso, foi criado um **dashboard interativo** para visualizar os insights de forma dinâmica! 🚀  
@@ -51,9 +53,9 @@ Os dados foram obtidos a partir do **Kaggle**, contendo informações sobre expe
 Utilizamos um modelo de **Regressão Linear Múltipla** para prever a expectativa de vida geral do país a partir da expectativa masculina e feminina.  
 
 📌 **Equação do modelo:**  
-$$
-Life\_Expectancy\_Both = a \times Male\_Life\_Expectancy + b \times Female\_Life\_Expectancy + c
-$$
+
+Life_Expectancy_Both = a X times Male_Life_Expectancy + b X times Female_Life_Expectancy + c
+
 
 📌 **Resultados do modelo:**  
 ✔ **Erro Médio Absoluto (MAE):** 0.06 anos  
